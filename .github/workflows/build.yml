@@ -8,7 +8,7 @@ jobs:
  
   # https://github.com/MiyooCFW/buildroot/blob/master/.github/workflows/rootfs.yml
   build-image:
-    uses: MiyooCFW/buildroot/.github/workflows/build.yml@master
+    uses: Apaczer/buildroot_miyoocfw/.github/workflows/build.yml@v_tag
     with:
       submodule: buildroot
       
