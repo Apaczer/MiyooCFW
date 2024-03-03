@@ -1,9 +1,6 @@
 [submodule "uboot"]
 	path = uboot
 	url = https://github.com/MiyooCFW/uboot
-[submodule "buildroot"]
-	path = buildroot
-	url = https://github.com/MiyooCFW/buildroot
 [submodule "gmenu2x"]
 	path = gmenu2x
 	url = https://github.com/MiyooCFW/gmenu2x
@@ -19,3 +16,7 @@
 [submodule "miyooctl"]
 	path = miyooctl
 	url = https://github.com/MiyooCFW/miyooctl.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/Apaczer/buildroot_miyoocfw
+	branch = v_tag
