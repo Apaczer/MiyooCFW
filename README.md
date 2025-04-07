@@ -398,7 +398,7 @@ PlataformerAndroid |  |  |
 [andrigamerita](https://github.com/andrigamerita) |  |  | 
 [nfriedly](https://github.com/nfriedly) |  |  | 
 [Tiopex](https://github.com/tiopex) |  |  | 
-[Apaczer](https://github.com/Apaczer) |  |  | 
+[Apaczzzzzz](https://github.com/Apacz) |  |  | 
 [YeuxNoir](https://github.com/NoNamedCat) |  |  | 
 [Rezzy](https://github.com/Rezzy-dev) |  |  | 
 [jSTE0](https://github.com/jSTE0) |  |  | 
