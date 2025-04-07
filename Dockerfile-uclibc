@@ -4,6 +4,7 @@ LABEL description="Build environment for Miyoo Custom Firmware"
 
 COPY arm-miyoo-linux-uclibcgnueabi_sdk-buildroot /opt/miyoo
 
+# test
 # set up some env properties (these are based on Arcnor's image)
 ENV CROSS_ROOT=/opt/miyoo
 ENV CROSS_TRIPLE=arm-miyoo-linux-uclibcgnueabi
