@@ -304,9 +304,6 @@ jobs:
 
   # https://github.com/MiyooCFW/gmenu2x/blob/master/.github/workflows/c-cpp.yml
   gmenu2x:
-    needs: 
-    - docker-uclibc
-    - docker-musl
     uses: MiyooCFW/gmenu2x/.github/workflows/c-cpp.yml@master
     with:
       submodule: gmenu2x
